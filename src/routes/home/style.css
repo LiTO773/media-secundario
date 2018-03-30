@@ -1,5 +1,13 @@
 .home {
-	padding: 56px 20px;
-	min-height: 100%;
-	width: 100%;
+	text-align: center;
+}
+
+.choice {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	padding: 10px;
+	border: 3px solid #3a7bd5;
+	border-radius: 20px;
+  background-color: transparent;
+	font-size: 20px;
 }
